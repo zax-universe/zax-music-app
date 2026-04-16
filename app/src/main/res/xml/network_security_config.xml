@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">api.deezer.com</domain>
+        <domain includeSubdomains="true">api.jamendo.com</domain>
+        <domain includeSubdomains="true">ws.audioscrobbler.com</domain>
+        <domain includeSubdomains="true">cdn.deezer.com</domain>
+        <domain includeSubdomains="true">cdns-images.dzcdn.net</domain>
+        <domain includeSubdomains="true">usercontent.jamendo.com</domain>
+    </domain-config>
+</network-security-config>

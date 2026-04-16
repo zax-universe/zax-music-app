@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1DB954</color>
+    <color name="primary_dark">#158a3e</color>
+    <color name="primary_light">#1ed760</color>
+    <color name="background">#121212</color>
+    <color name="background_elevated">#1a1a1a</color>
+    <color name="surface">#242424</color>
+    <color name="surface_variant">#2a2a2a</color>
+    <color name="card_background">#282828</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B3B3B3</color>
+    <color name="text_tertiary">#6B6B6B</color>
+    <color name="text_on_primary">#000000</color>
+    <color name="accent_green">#1DB954</color>
+    <color name="accent_blue">#2D46B9</color>
+    <color name="accent_purple">#8D67AB</color>
+    <color name="error">#CF6679</color>
+    <color name="warning">#FFB300</color>
+    <color name="divider">#282828</color>
+    <color name="ripple">#33FFFFFF</color>
+    <color name="mini_player_bg">#282828</color>
+    <color name="bottom_nav_bg">#121212</color>
+    <color name="shimmer_base">#2a2a2a</color>
+    <color name="shimmer_highlight">#3a3a3a</color>
+    <color name="liked">#1DB954</color>
+    <color name="not_liked">#B3B3B3</color>
+    <color name="transparent">#00000000</color>
+    <color name="scrim">#80000000</color>
+    <color name="gradient_start">#00000000</color>
+    <color name="gradient_end">#CC000000</color>
+    <color name="status_bar">#000000</color>
+</resources>

@@ -1,0 +1,9 @@
+-keep class com.musify.data.** { *; }
+-keep class com.musify.service.** { *; }
+-keepattributes Signature
+-keepattributes *Annotation*
+-keep class retrofit2.** { *; }
+-keep class okhttp3.** { *; }
+-keep class com.google.gson.** { *; }
+-dontwarn okhttp3.**
+-dontwarn retrofit2.**
